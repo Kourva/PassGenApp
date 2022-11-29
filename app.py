@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Password Generator App Made With KivyMD
-## GITHUB: https://github.com/MemeSec
+## GITHUB: https://github.com/Izolabela
 
 # Imports
 from sys import exit
@@ -101,7 +101,7 @@ class PassGenApp(MDApp):
         # Github Dialog
         self.Github = MDDialog(
             title = "Developer",
-            text = "Support me by giving a star :D\n\nhttps://github.com/MemeSec/PassGenApp",
+            text = "Support me by giving a star :D\n\nhttps://github.com/Izolabela/PassGenApp",
             buttons = [
                 MDFlatButton(
                     text = "Close",
