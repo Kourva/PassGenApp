@@ -10,11 +10,11 @@ git clone https://github.com/MemeSec/PassGenApp && cd PassGenApp & chmod +x inst
 ```
 + requirements
 ```bash
-./intall.sh
+./install.sh
 ```
 + run
 ```bash
-python3 main.py
+python3 app.py
 ```
 <br>
 
