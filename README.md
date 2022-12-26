@@ -6,7 +6,7 @@ Easy To Use GUI Password Generator App
 # Install
 + clone
 ```bash
-git clone https://github.com/Izolabela/PassGenApp && cd PassGenApp & chmod +x install.sh
+git clone https://github.com/Kourva/PassGenApp && cd PassGenApp & chmod +x install.sh
 ```
 + requirements
 ```bash
